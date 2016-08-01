@@ -1,0 +1,9 @@
+c:\users\tlato\onedrive\documentos\visual studio 2015\Projects\TestGit\TestGit\bin\Debug\TestGit.exe.config
+c:\users\tlato\onedrive\documentos\visual studio 2015\Projects\TestGit\TestGit\bin\Debug\TestGit.exe
+c:\users\tlato\onedrive\documentos\visual studio 2015\Projects\TestGit\TestGit\bin\Debug\TestGit.pdb
+c:\users\tlato\onedrive\documentos\visual studio 2015\Projects\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
+c:\users\tlato\onedrive\documentos\visual studio 2015\Projects\TestGit\TestGit\obj\Debug\TestGit.Form1.resources
+c:\users\tlato\onedrive\documentos\visual studio 2015\Projects\TestGit\TestGit\obj\Debug\TestGit.Properties.Resources.resources
+c:\users\tlato\onedrive\documentos\visual studio 2015\Projects\TestGit\TestGit\obj\Debug\TestGit.csproj.GenerateResource.Cache
+c:\users\tlato\onedrive\documentos\visual studio 2015\Projects\TestGit\TestGit\obj\Debug\TestGit.exe
+c:\users\tlato\onedrive\documentos\visual studio 2015\Projects\TestGit\TestGit\obj\Debug\TestGit.pdb
